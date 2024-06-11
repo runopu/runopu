@@ -7,9 +7,9 @@ I'm a skilled Full Stack .NET Developer with a strong passion for building robus
 - **Programming Languages:** C#, ASP.NET, VB.NET, JavaScript
 - **Web Technologies:** HTML5, CSS3, Bootstrap, jQuery
 - **Frameworks:** .NET Framework, .NET Core, Entity Framework
-- **Databases:** SQL Server, MySQL
+- **Databases:** SQL Server, MySQL, Postgresql
 - **Version Control:** Git, SVN, Team Foundation Server
-- **Front-end Tools:** React, Angular
+- **Front-end Framework + Tools:** React, Angular
 
 ## 🛠️ What I Do
 
