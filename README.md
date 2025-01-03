@@ -34,9 +34,10 @@ I'm a skilled Full Stack .NET Developer with a strong passion for building robus
 
 If you're looking for a dedicated Full Stack .NET Developer who can bring your ideas to life, let's connect! I'm excited to discuss your project requirements and provide the best solution tailored to your needs.
 
-- 📫 **Email:** [runopu@gmail.com](mailto:runopu@gmail.com)
-- 💬 **Skype:** runopu
-- 📱 **Mobile:** +8801740507087
+- 📫 **Email:** [runopu@gmail.com](mailto:runopu@gmail.com)  
+- 💬 **Skype:** runopu  
+- 📱 **Mobile:** +8801740507087  
+- 💬 **WhatsApp:** [Chat on WhatsApp](https://wa.me/8801740507087)  
 
 ## 🚀 Let's Create Something Great Together!
 
