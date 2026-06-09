@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm a Full Stack .NET Developer
+# Hi there! 👋 I'm a Senior .NET Developer | ASP.NET MVC & Web API Specialist | SQL Server Performance & Scalable Systems Expert Developer
 
 I'm a skilled Full Stack .NET Developer with a strong passion for building robust and scalable web applications. I thrive in fast-paced environments and enjoy taking on new challenges to create innovative solutions.
 
