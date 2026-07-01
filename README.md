@@ -1,29 +1,52 @@
 <h1 align="center">Hi 👋, I'm Abdullah Al Bake</h1>
 
 <h3 align="center">
-Senior .NET Developer | ASP.NET Core | MVC | Web API | Blazor | SQL Server
+Software Development Manager | Senior Full Stack .NET Developer
 </h3>
 
 <p align="center">
-I build scalable, secure, and high-performance enterprise web applications using Microsoft's technology stack.
+Building modern, secure, scalable, and high-performance enterprise software using Microsoft technologies.
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 💼 Senior .NET Developer
-- 🔹 10+ years of software development experience
-- 🔹 ASP.NET Core & MVC Specialist
-- 🔹 REST API Development
-- 🔹 SQL Server Performance Optimization
-- 🔹 Clean Architecture
-- 🔹 Legacy Application Modernization
-- 🔹 Business Automation Solutions
+I'm a passionate Software Development Manager and Senior .NET Developer specializing in designing and developing enterprise-grade business applications.
+
+My expertise includes building scalable web applications, REST APIs, SQL Server optimization, cloud-ready solutions, and modern software architectures that help businesses grow.
 
 ---
 
-## 💻 Tech Stack
+## 💼 What I Do
+
+✔ Enterprise Software Development
+
+✔ ASP.NET Core & MVC Applications
+
+✔ RESTful Web API Development
+
+✔ Blazor Applications
+
+✔ React & Angular Integration
+
+✔ SQL Server Performance Optimization
+
+✔ Database Architecture
+
+✔ Legacy Application Modernization
+
+✔ Authentication & Authorization
+
+✔ Business Process Automation
+
+✔ Cloud Deployment
+
+✔ Software Architecture & Technical Leadership
+
+---
+
+## 🛠 Tech Stack
 
 ### Backend
 
@@ -31,17 +54,19 @@ I build scalable, secure, and high-performance enterprise web applications using
 - ASP.NET MVC
 - Web API
 - Blazor
-- Entity Framework Core
 - C#
+- Entity Framework Core
 - LINQ
 
 ### Frontend
 
+- React
+- Angular
+- JavaScript
+- jQuery
 - HTML5
 - CSS3
 - Bootstrap
-- JavaScript
-- jQuery
 - Tailwind CSS
 
 ### Database
@@ -49,60 +74,94 @@ I build scalable, secure, and high-performance enterprise web applications using
 - SQL Server
 - Stored Procedures
 - Query Optimization
+- Database Design
 - Performance Tuning
 
-### Tools
+### DevOps & Cloud
 
-- Visual Studio
+- Azure
+- Docker
 - Git
 - GitHub
-- Azure
 - IIS
-- Postman
+- CI/CD
 
 ---
 
-## 📈 What I Build
+## ⭐ Services
 
-✔ Enterprise Web Applications
+- Custom Business Software
+- ERP Development
+- CRM Systems
+- HR & Payroll Systems
+- Inventory Management
+- Accounting Systems
+- School Management Systems
+- Hospital Management Systems
+- Hotel Management Systems
+- Fleet Management Systems
+- API Development
+- Third-party Integrations
+- SQL Performance Optimization
 
-✔ Business Management Systems
+---
 
-✔ ERP Solutions
+## 📈 My Expertise
 
-✔ CRM Systems
+🔹 High-performance ASP.NET applications
 
-✔ Inventory Management
+🔹 Secure REST APIs
 
-✔ HR & Payroll
+🔹 SQL Server optimization
 
-✔ Financial Management
+🔹 Clean Architecture
 
-✔ REST APIs
+🔹 Repository Pattern
 
-✔ Dashboard & Reporting
+🔹 Microservices
 
-✔ Authentication & Authorization
+🔹 Domain Driven Design
+
+🔹 Authentication (JWT, Identity)
+
+🔹 Role-Based Authorization
+
+🔹 Cloud-ready applications
 
 ---
 
 ## 🌱 Currently Learning
 
 - .NET 9
+- AI Integration
 - Azure Cloud
-- Docker
 - Kubernetes
 - Microservices
-- AI Integration
+- Event-Driven Architecture
+
+---
+
+## 📌 Featured Projects
+
+- Enterprise ERP
+- CRM Platform
+- HR & Payroll
+- Inventory Management
+- School Management
+- Hotel Management
+- Fleet Management
+- SQL Performance Toolkit
+- ASP.NET Core Boilerplate
+- Clean Architecture Template
 
 ---
 
 ## 🤝 Let's Connect
 
-- LinkedIn
-- Fiverr
-- GitHub
+💼 Software Development
 
----
+🌍 Open to Freelance Projects
 
-⭐ I enjoy building software that is clean, maintainable, scalable, and delivers real business value.
+🚀 Enterprise Solutions
+
+⭐ Always building software that is scalable, maintainable, and built for real business needs.
