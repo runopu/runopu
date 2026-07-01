@@ -13,7 +13,7 @@ I build scalable, secure, and high-performance enterprise web applications using
 ## 🚀 About Me
 
 - 💼 Senior .NET Developer
-- 🔹 6+ years of software development experience
+- 🔹 10+ years of software development experience
 - 🔹 ASP.NET Core & MVC Specialist
 - 🔹 REST API Development
 - 🔹 SQL Server Performance Optimization
