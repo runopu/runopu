@@ -1,44 +1,108 @@
-# Hi there! 👋 I'm a Full Stack .NET | ASP.NET MVC & Web API Specialist | SQL Server Performance & Scalable Systems Expert
+<h1 align="center">Hi 👋, I'm Abdullah Al Bake</h1>
 
-I'm a skilled Full Stack .NET Developer with a strong passion for building robust and scalable web applications. I thrive in fast-paced environments and enjoy taking on new challenges to create innovative solutions.
+<h3 align="center">
+Senior .NET Developer | ASP.NET Core | MVC | Web API | Blazor | SQL Server
+</h3>
 
-## 🔧 Technical Expertise
+<p align="center">
+I build scalable, secure, and high-performance enterprise web applications using Microsoft's technology stack.
+</p>
 
-- **Programming Languages:** C#, ASP.NET, VB.NET, JavaScript
-- **Web Technologies:** HTML5, CSS3, Bootstrap, jQuery
-- **Frameworks:** .NET Framework, .NET Core, Entity Framework
-- **Databases:** SQL Server, MySQL, Postgresql
-- **Version Control:** Git, SVN, Team Foundation Server
-- **Front-end Framework + Tools:** React, Angular
+---
 
-## 🛠️ What I Do
+## 🚀 About Me
 
-- **Full-cycle web application development:** From concept to deployment.
-- **Creating responsive and user-friendly interfaces:** Using modern front-end technologies.
-- **Building secure and efficient APIs:** To support seamless communication between front-end and back-end.
-- **Database design, optimization, and implementation:** Ensuring data integrity and performance.
-- **Integration of third-party services and APIs:** To enhance functionality.
-- **Unit testing and debugging:** Delivering high-quality and bug-free code.
-- **Continuous integration and deployment:** Using industry-standard practices.
-- **Collaboration:** Working with cross-functional teams to understand project requirements and deliver solutions that meet client expectations.
+- 💼 Senior .NET Developer
+- 🔹 6+ years of software development experience
+- 🔹 ASP.NET Core & MVC Specialist
+- 🔹 REST API Development
+- 🔹 SQL Server Performance Optimization
+- 🔹 Clean Architecture
+- 🔹 Legacy Application Modernization
+- 🔹 Business Automation Solutions
 
-## 🎯 Track Record
+---
 
-- Proven track record of delivering successful projects within deadlines and budget.
-- Strong problem-solving skills with an ability to think critically and find creative solutions.
-- Attention to detail and commitment to writing clean and maintainable code.
-- Excellent communication skills to effectively understand client needs and provide regular updates.
-- Adaptable and quick learner, staying up-to-date with the latest industry trends and technologies.
+## 💻 Tech Stack
 
-## 📬 Let's Connect!
+### Backend
 
-If you're looking for a dedicated Full Stack .NET Developer who can bring your ideas to life, let's connect! I'm excited to discuss your project requirements and provide the best solution tailored to your needs.
+- ASP.NET Core
+- ASP.NET MVC
+- Web API
+- Blazor
+- Entity Framework Core
+- C#
+- LINQ
 
-- 📫 **Email:** [runopu@gmail.com](mailto:runopu@gmail.com)  
-- 💬 **Fiverr:** [runopu](https://www.fiverr.com/s/99VbGzY)  
-- 📱 **Mobile:** +8801740507087  
-- 💬 **WhatsApp:** [Chat on WhatsApp](https://wa.me/8801740507087)  
+### Frontend
 
-## 🚀 Let's Create Something Great Together!
+- HTML5
+- CSS3
+- Bootstrap
+- JavaScript
+- jQuery
+- Tailwind CSS
 
-I'm not a "rock star" or "ninja", just a person who knows how to work hard and be part of the team.
+### Database
+
+- SQL Server
+- Stored Procedures
+- Query Optimization
+- Performance Tuning
+
+### Tools
+
+- Visual Studio
+- Git
+- GitHub
+- Azure
+- IIS
+- Postman
+
+---
+
+## 📈 What I Build
+
+✔ Enterprise Web Applications
+
+✔ Business Management Systems
+
+✔ ERP Solutions
+
+✔ CRM Systems
+
+✔ Inventory Management
+
+✔ HR & Payroll
+
+✔ Financial Management
+
+✔ REST APIs
+
+✔ Dashboard & Reporting
+
+✔ Authentication & Authorization
+
+---
+
+## 🌱 Currently Learning
+
+- .NET 9
+- Azure Cloud
+- Docker
+- Kubernetes
+- Microservices
+- AI Integration
+
+---
+
+## 🤝 Let's Connect
+
+- LinkedIn
+- Fiverr
+- GitHub
+
+---
+
+⭐ I enjoy building software that is clean, maintainable, scalable, and delivers real business value.
