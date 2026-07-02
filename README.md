@@ -132,7 +132,7 @@ My expertise includes building scalable web applications, REST APIs, SQL Server 
 
 ## 🌱 Currently Learning
 
-- .NET 9
+- .NET 10
 - AI Integration
 - Azure Cloud
 - Kubernetes
